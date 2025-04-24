@@ -1,0 +1,10 @@
+3 4
+set 0 0 5
+set 1 2 10
+set 2 3 15
+get 0 0
+get 1 2
+get 2 3
+set 3 1 20
+get 1 1
+get 2 4
